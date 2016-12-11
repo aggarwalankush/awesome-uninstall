@@ -1,4 +1,4 @@
-# Uninstall
+# Awesome Uninstall
 Completely uninstall an application
 
 ## Prerequisites 

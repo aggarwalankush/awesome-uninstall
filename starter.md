@@ -1,0 +1,11 @@
+# MAC
+
+```bash
+
+```
+
+# UBUNTU
+
+```bash
+
+```

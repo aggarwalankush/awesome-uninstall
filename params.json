@@ -1,0 +1,6 @@
+{
+  "name": "Awesome-uninstall",
+  "tagline": "Completely uninstall an application",
+  "body": "# Awesome Uninstall\r\nUninstalling an app isn’t as straightforward as you would think. When you drag and drop an app into the Trash, then empty it, the main app itself may be gone, but many associated files and folders are left behind. \r\n\r\n**Awesome Uninstall provides a list of commands which can be used to completely uninstall an application.**\r\n\r\n## Steps to follow\r\n### MAC\r\n- Delete app from Applications\r\n- Empty Trash\r\n- Run uninstall commands for your application mentioned in this repository\r\n\r\n### Ubuntu\r\n- Delete app folder\r\n- Run uninstall commands for your application mentioned in this repository\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
